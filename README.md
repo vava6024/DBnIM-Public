@@ -1,2 +1,2 @@
 dbni_Lab4
-  Personally my favorite lab, It simulates a bank transaction. Vaery fun to play around with the account amounts. 
+  Personally my favorite lab, it simulates a bank transaction. Very fun to play around with the account amounts. 
